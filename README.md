@@ -1,6 +1,2 @@
 # MyFirstRepository
-This is My First Git Repository
-<br>
-Author - Murari Pathak
-<br>
-Hello Murari
+11/27/2023
